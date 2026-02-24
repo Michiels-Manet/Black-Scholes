@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Black-Scholes/1.0.0": {
+        "runtime": {
+          "Black-Scholes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Black-Scholes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

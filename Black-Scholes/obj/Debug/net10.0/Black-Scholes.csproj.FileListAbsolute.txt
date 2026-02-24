@@ -1,0 +1,14 @@
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\Black-Scholes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\Black-Scholes.AssemblyInfoInputs.cache
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\Black-Scholes.AssemblyInfo.cs
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\Black-Scholes.csproj.CoreCompileInputs.cache
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\bin\Debug\net10.0\Black-Scholes.exe
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\bin\Debug\net10.0\Black-Scholes.deps.json
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\bin\Debug\net10.0\Black-Scholes.runtimeconfig.json
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\bin\Debug\net10.0\Black-Scholes.dll
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\bin\Debug\net10.0\Black-Scholes.pdb
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\Black-Scholes.dll
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\refint\Black-Scholes.dll
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\Black-Scholes.pdb
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\Black-Scholes.genruntimeconfig.cache
+C:\Users\manet\OneDrive\Documents\financiële wiskunde code\Black-Scholes\Black-Scholes\obj\Debug\net10.0\ref\Black-Scholes.dll
