@@ -14,7 +14,7 @@ public static class BlackScholes // static = geen object aanmaken
         return S * NormCdf(d1) - K * Math.Exp(-r * T) * NormCdf(d2); // NormCdf = cummulatieve normale verdeling
     }
 
-    // Europese put via Black–Scholes
+    // Europese put via Black–Scholes vergelijking
     public static double PutPrice(double S, double K, double r, double sigma, double T)
     {
         ValidateInputs(S, K, sigma, T);
